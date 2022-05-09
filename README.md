@@ -1,5 +1,5 @@
 <h1 style="text-align:center">
-TaxHype Node.JS Server Library
+TaxHype | Node.JS Server Library
 </h1>
 
 ![](https://img.shields.io/github/stars/hyperteksolutions/taxhype.svg)
