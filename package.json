@@ -1,6 +1,6 @@
 {
   "name": "taxhype",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Helper Library for TaxHype, a Sales Tax Compliance Service",
   "main": "src/index.js",
   "scripts": {

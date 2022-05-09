@@ -21,7 +21,7 @@ class TaxHype {
   };
 
   calculateTax = async (amount, zipCode) => {
-    let x = await this.instance.post("/client/nexusStatus", {
+    let x = await this.instance.post("/client/calculateTax", {
       amount,
       zipCode,
     });
