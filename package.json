@@ -1,31 +1,35 @@
 {
   "name": "taxhype",
-  "version": "1.0.0",
-  "description": "A TaxHype helper library",
+  "version": "1.0.2",
+  "description": "Helper Library for TaxHype, a Sales Tax Compliance Service",
   "main": "src/index.js",
   "scripts": {
-    "test": "npm run test:javascript && npm run test:typescript",
     "start": "node src/index.js"
   },
   "keywords": [
     "taxhype",
     "tax",
-    "hypertek"
+    "sales tax",
+    "sales tax compliance",
+    "hypertek",
+    "solutions",
+    "Hypertek Solutions",
+    "nodejs"
   ],
   "author": "Hypertek <contact@hypertek.dev> (https://hypertek.dev)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hypertek-Solutions/taxhype.git"
+    "url": "git+https://github.com/hyperteksolutions/taxhype.git"
   },
   "bugs": {
-    "url": "https://github.com/Hypertek-Solutions/taxhype/issues"
+    "url": "https://github.com/hyperteksolutions/taxhype/issues"
   },
   "homepage": "https://taxhype.com",
   "engines": {
-    "node": "^8.1 || >=10.*"
+    "node": ">=16.*"
   },
   "dependencies": {
-    "axios": "^0.25.0"
+    "axios": "^0.26.0"
   }
 }
