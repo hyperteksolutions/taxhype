@@ -27,6 +27,14 @@ class TaxHype {
     });
     return Promise.resolve(x.data);
   };
+
+  taxRate = async (amount, zipCode) => {
+    let x = await this.instance.post("/client/taxRate", {
+      amount,
+      zipCode,
+    });
+    return Promise.resolve(x.data);
+  };
 }
 
 var _old = TaxHype;

@@ -1,6 +1,6 @@
 {
   "name": "taxhype",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Helper Library for TaxHype, a Sales Tax Compliance Service",
   "main": "src/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "Hypertek Solutions",
     "nodejs"
   ],
-  "author": "Hypertek <contact@hypertek.dev> (https://hypertek.dev)",
+  "author": "Hypertek Solutions LLC <contact@hypertek.dev> (https://liveuptothehype.com)",
   "license": "MIT",
   "repository": {
     "type": "git",

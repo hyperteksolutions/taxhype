@@ -2,14 +2,6 @@
 TaxHype | Node.JS Server Library
 </h1>
 
-![](https://img.shields.io/github/stars/hyperteksolutions/taxhype.svg)
-![](https://img.shields.io/github/forks/hyperteksolutions/taxhype.svg)
-![](https://img.shields.io/github/tag/hyperteksolutions/taxhype.svg)
-![](https://img.shields.io/github/release/hyperteksolutions/taxhype.svg)
-![](https://img.shields.io/github/issues/hyperteksolutions/taxhype.svg)
-
----
-
 [![Npm package version](https://badgen.net/npm/v/taxhype)](https://npmjs.com/package/taxhype)
 [![NPM Package Downloads](https://badgen.net/npm/dt/taxhype)](https://npmjs.com/package/taxhype)
 [![Try on RunKit](https://badge.runkitcdn.com/taxhype.svg)](https://runkit.com/npm/taxhype)
